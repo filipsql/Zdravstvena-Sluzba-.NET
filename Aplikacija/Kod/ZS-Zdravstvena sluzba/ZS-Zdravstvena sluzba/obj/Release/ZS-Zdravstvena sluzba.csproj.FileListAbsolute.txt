@@ -1,0 +1,26 @@
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\bin\Release\ZS-Zdravstvena sluzba.exe.config
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\bin\Release\ZS-Zdravstvena sluzba.exe
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\bin\Release\ZS-Zdravstvena sluzba.pdb
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\bin\Release\BazaN.dll
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\bin\Release\BazaN.pdb
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\bin\Release\BazaN.dll.config
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS-Zdravstvena sluzba.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Administrator.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Dijagnoza.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.DodajZaposlenogForma.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.DodavanjePacijentaForma.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Login.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.IzaberiLekara.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.LekarForm.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Opisterapije.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Osoblje.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.PregledLekara.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.PretraziPacijenta.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Properties.Resources.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.StatistikaForma.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS_Zdravstvena_sluzba.Uput.resources
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS-Zdravstvena sluzba.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS-Zdravstvena sluzba.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS-Zdravstvena sluzba.csproj.CopyComplete
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS-Zdravstvena sluzba.exe
+C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\ZS-Zdravstvena sluzba\obj\Release\ZS-Zdravstvena sluzba.pdb
