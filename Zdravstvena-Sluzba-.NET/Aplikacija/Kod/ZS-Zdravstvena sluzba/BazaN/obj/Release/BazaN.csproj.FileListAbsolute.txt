@@ -1,7 +1,0 @@
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\bin\Release\BazaN.dll.config
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\bin\Release\BazaN.dll
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\bin\Release\BazaN.pdb
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\obj\Release\BazaN.csprojAssemblyReference.cache
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\obj\Release\BazaN.csproj.CoreCompileInputs.cache
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\obj\Release\BazaN.dll
-C:\Users\Filip\Desktop\ZS-Zdravstvena sluzba\BazaN\obj\Release\BazaN.pdb
